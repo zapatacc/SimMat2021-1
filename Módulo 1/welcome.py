@@ -1,4 +1,5 @@
 # programa de bienvenida.
+
 # Created by Lázaro Alonso.
 from time import sleep
 def print_words(sentence):
